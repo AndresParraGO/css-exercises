@@ -1,0 +1,15 @@
+{
+  "name": "css-exercises",
+  "version": "1.0.0",
+  "description": "CSS exercises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CSS",
+    "Exercises"
+  ],
+  "author": "AndresParraGO <https://github.com/AndresParraGO>",
+  "license": "MIT"
+}
